@@ -12,3 +12,4 @@ Instructions:
 - squeeze lime
 - add salt
 - mix well
+- eat
